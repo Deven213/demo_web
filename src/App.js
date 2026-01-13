@@ -9,7 +9,7 @@ import './index.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/demo_web">
       <div className="App">
         <Navbar />
         <main>
